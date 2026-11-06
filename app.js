@@ -149,104 +149,49 @@ const THEORIES = {
 
 const REFERENCES = [
   {
-    html: 'Barón Birchenall, L. F., Müller, O., &amp; Galindo, O. (2014). Métodos experimentales de estudio de la percepción temprana del habla. <i>Revista Colombiana de Psicología, 23</i>(1), 73–94.',
-    url: 'https://doi.org/10.15446/rcp.v23n1.37716',
-    theories: ['freud', 'ipl']
-  },
-  {
-    html: 'Mariscal, S., Casla, M., Rujas, I., &amp; Aguado-Orea, J. (2012). Los métodos basados en la duración de la mirada: ¿una ventana a la cognición temprana? <i>Studies in Psychology, 33</i>(3), 277–292.',
-    url: 'https://doi.org/10.1174/021093912803758219',
-    theories: ['piaget', 'kohlberg']
-  },
-  {
-    html: 'Reading Rockets. (2014b, 16 de abril). <i>Tuning In to Speech Sounds</i> [Vídeo]. YouTube.',
-    url: 'https://www.youtube.com/watch?v=WvM5bqUsbu8',
+    html: 'Zhang, W., Pan, Q., &amp; Guo, B. (2022). The significance of infant research for psychoanalysis. <i>Humanities and Social Sciences Communications, 9</i>, 194.',
+    url: 'https://www.nature.com/articles/s41599-022-01219-z',
     theories: ['freud']
   },
   {
-    html: 'Perra, O., Winstanley, A., Sperotto, R., &amp; Gattis, M. (2024). Attention control in preterm and term 5-month-old infants: Cross-task stability increases with gestational age. <i>Infancy, 29</i>(3), 437–458.',
-    url: 'https://doi.org/10.1111/infa.12574',
-    theories: ['freud']
+    html: 'Sánchez Hurtado, Y. (2001). Vygotsky, Piaget y Freud: a propósito de la socialización. <i>Enunciación</i>.',
+    url: 'https://revistas.udistrital.edu.co/index.php/enunc/article/view/2440/3382',
+    theories: ['freud', 'piaget']
   },
   {
-    html: 'ZERO TO THREE. (2026, 23 de enero). <i>Early Brain Development | ZERO TO THREE</i>.',
-    url: 'https://www.zerotothree.org/early-brain-development/',
-    theories: ['freud']
+    html: 'Enesco, I., &amp; Sierra, P. (2002). El desarrollo moral. En P. Herranz &amp; P. Sierra (Eds.), <i>Psicología Evolutiva I</i> (2, pp. 272–321). Madrid: UNED.',
+    url: 'https://www.researchgate.net/publication/378804228_El_desarrollo_moral',
+    theories: ['kohlberg']
   },
   {
-    html: 'Labvanced. (2025, 4 de octubre). <i>The Preferential Looking Paradigm | Quick Overview in Labvanced</i> [Vídeo]. YouTube.',
-    url: 'https://www.youtube.com/watch?v=T_SkGjh4YH4',
-    theories: ['ipl']
+    html: 'Cruz Puerto, M. S. (2020). Desarrollo moral: Tres comprensiones. <i>Revista Iberoamericana de Psicología, 13</i>(1), 95–103.',
+    url: 'https://reviberopsicologia.ibero.edu.co/article/view/1619',
+    theories: ['kohlberg']
   },
   {
-    html: '<i>Desarrollo de la percepción intersensorial</i>. (s. f.). Aacademica.org. Recuperado el 16 de septiembre de 2026, de',
-    url: 'https://www.aacademica.org/mauricio.martinez/20.pdf',
-    theories: ['ipl']
+    html: 'Cambridge Philosophical Papers. (2025). <i>Kant and Freud on Moral Development: A Reappraisal</i>. <i>Philosophy</i>. Cambridge University Press.',
+    url: 'https://www.cambridge.org/',
+    theories: ['freud', 'kohlberg']
   },
   {
-    html: 'Capelli, E., Cassa, M. I., Riboldi, E. M., Beretta, C., Siri, E., Cantiani, C., Molteni, M., &amp; Riva, V. (2026). Developmental changes in audio-visual speech integration during the first year of life in infants at elevated and typical likelihood of autism. <i>PLOS ONE</i>, e0347046.',
-    url: 'https://doi.org/10.1371/journal.pone.0347046',
-    theories: ['ipl']
-  },
-  {
-    html: '<i>Journal publications — MIT Early Childhood Cognition Lab</i>. (s. f.). MIT Early Childhood Cognition Lab.',
-    url: 'https://eccl.mit.edu/journal-publications',
-    theories: ['ipl']
-  },
-  {
-    html: 'powerbabies. (2011, 24 de marzo). <i>Infant Looking Time Habituation. Activity 2 from «What Babies Can Do» DVD</i> [Vídeo]. YouTube.',
-    url: 'https://www.youtube.com/watch?v=dlilZh60qdA',
+    html: 'Piaget, J. (1932/1984). <i>El criterio moral en el niño</i>. Ediciones Martínez Roca.',
+    url: 'https://www.google.com/search?q=Jean+Piaget+El+criterio+moral+en+el+ni%C3%B1o',
     theories: ['piaget']
   },
   {
-    html: 'Poli, F., Ghilardi, T., Beijers, R., de Weerth, C., Hinne, M., Mars, R. B., &amp; Hunnius, S. (2024). Individual differences in processing speed and curiosity explain infant habituation and dishabituation performance. <i>Developmental Science, 27</i>, e13460.',
-    url: 'https://doi.org/10.1111/desc.13460',
+    html: 'Carpendale, J. I. M. (2009). La teoría del desarrollo moral de Piaget. En U. Müller, J. I. M. Carpendale, &amp; L. Smith (Eds.), <i>The Cambridge Companion to Piaget</i> (pp. 270–286). Cambridge University Press.',
+    url: 'https://www.cambridge.org/',
     theories: ['piaget']
   },
   {
-    html: '<i>PSYC 110 - Lecture 5 - What Is It Like to Be a Baby: The Development of Thought | Open Yale Courses</i>. (s. f.).',
-    url: 'https://oyc.yale.edu/psychology/psyc-110/lecture-5',
-    theories: ['piaget']
-  },
-  {
-    html: 'Psy vs. Psy. (2021, 4 de agosto). <i>Violation of Expectations Experiments: Babies know more than you think!</i> [Vídeo]. YouTube.',
-    url: 'https://www.youtube.com/watch?v=lXPM6gBF1Zc',
+    html: 'Almagiá, E. B. (1987). El desarrollo moral: Una introducción a la teoría de Kohlberg. <i>Revista Latinoamericana de Psicología, 19</i>(1), 7–18.',
+    url: 'https://www.redalyc.org/',
     theories: ['kohlberg']
   },
   {
-    html: 'Puche Navarro, R. (2001). Inferencias y prácticas gravitacionales en el niño en el segundo semestre de vida. <i>Psicología desde el Caribe</i>, (8), 63–93.',
-    url: 'https://www.redalyc.org/pdf/213/21300806.pdf',
+    html: 'Semantic Scholar Research. (2025). Exploring Children’s Morality: Theory, Data, and Practice in Early Childhood. <i>Pedagogical Studies Journal</i>, 1–15.',
+    url: 'https://www.semanticscholar.org/',
     theories: ['kohlberg']
-  },
-  {
-    html: 'Baillargeon, R., Spelke, E. S., &amp; Wasserman, S. (1985). Object permanence in five-month-old infants. <i>Cognition, 20</i>(3), 191–208.',
-    url: 'https://doi.org/10.1016/0010-0277(85)90008-3',
-    theories: ['kohlberg']
-  },
-  {
-    html: '<i>Brain-Building Through Play: Activities for Infants, Toddlers, and Children</i> - Center on the Developing Child at Harvard University. (2026, 11 de febrero). Center on the Developing Child at Harvard University.',
-    url: 'https://developingchild.harvard.edu/resources/handouts-tools/brainbuildingthroughplay/',
-    theories: ['kohlberg']
-  },
-  {
-    html: 'Houston-Price, C., &amp; Nakai, S. (2004). Distinguishing novelty and familiarity effects in infant preference procedures. <i>Infant and Child Development, 13</i>(4), 341–348.',
-    url: 'https://doi.org/10.1002/icd.364',
-    theories: ['fn']
-  },
-  {
-    html: 'University of Minnesota. (2009, 20 de octubre). <i>What babies teach us about perception</i> [Vídeo]. YouTube.',
-    url: 'https://www.youtube.com/watch?v=sqYgU6CjGds',
-    theories: ['fn']
-  },
-  {
-    html: 'Peyrot Negrete, I., &amp; Alva Canto, E. A. (2022). La rotación mental y la comprensión de palabras en infantes de 12 meses de edad. <i>Revista Electrónica de Psicología Iztacala, 25</i>(4), 1292–1311.',
-    url: 'https://www.iztacala.unam.mx/carreras/psicologia/psiclin/vol25num4/Vol25No4Art4.pdf',
-    theories: ['fn']
-  },
-  {
-    html: 'ZERO TO THREE. (2026b, 2 de septiembre). <i>Zero To Three | Leading the Way in Early Childhood Development</i>.',
-    url: 'https://www.zerotothree.org/',
-    theories: ['fn']
   }
 ];
 
