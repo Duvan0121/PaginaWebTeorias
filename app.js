@@ -16,36 +16,36 @@ const THEORIES = {
     },
     short: 'Sigmund Freud',
 
-    videoId: 'WvM5bqUsbu8',
+    videoId: 'jQm4xVVmDsQ',
 
     videoRef: {
-      url: 'https://www.youtube.com/watch?v=WvM5bqUsbu8',
-      label: 'Tuning In to Speech Sounds'
+      url: 'https://youtu.be/jQm4xVVmDsQ',
+      label: 'Freud y el caso Mateo'
     },
 
     esArticle: {
       title: 'VIGOTSKI, PIAGET Y FREUD: A PROPÓSITO DE LA SOCIALIZACIÓN',
       url: 'https://revistas.udistrital.edu.co/index.php/enunc/article/view/2440/3382',
-      desc: 'pendiente'
+      desc: ''
     },
 
     enArticle: {
       title: 'Kant and Freud on Moral Development: A Reappraisal',
       url: 'https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4FB71C98BB2CCEBBFE7E97982FF5BA16/S0031819125101149a.pdf/kant_and_freud_on_moral_development_a_reappraisal.pdf',
-      desc: 'Pendiente'
+      desc: ''
     },
 
     recommend: {
       title: 'Sigmund Freud: Theory & Contribution to Psychology',
       url: 'https://www.simplypsychology.org/sigmund-freud.html',
       reason:
-        'Pendiente'
+        '¿Qué oculta realmente nuestra mente inconsciente? Descúbrelo paso a paso explorando los diagramas interactivos y teorías clave de Sigmund Freud en este recurso.'
     },
 
     fact:'Sabias que Freud planteaba que la conciencia moral (el Superyó) nace y se fortalece de manera muy intensa debido al miedo y la culpa, especialmente tras la superación del famoso complejo de Edipo en la infancia.',
 
     activityUrl:
-      'https://es.educaplay.com/recursos-educativos/30668483-has_succion_de_amplitud_elevada.html'
+      'https://es.educaplay.com/recursos-educativos/31404114-sigmund_freud_psicoanalisis_y_moral.html'
   },
 
 
@@ -62,37 +62,37 @@ const THEORIES = {
     },
     short: 'Jean Piaget',
 
-    videoId: 'dlilZh60qdA',
+    videoId: 'tycIJSM6iUQ',
 
     videoRef: {
-      url: 'https://www.youtube.com/watch?v=dlilZh60qdA',
-      label: 'powerbabies (2011) · Infant Looking Time Habituation'
+      url: 'https://youtu.be/tycIJSM6iUQ?feature=shared',
+      label: 'Piaget y el caso Mateo'
     },
 
     esArticle: {
       title: 'EL CRITERIO MORAL EN EL NIÑO',
       url: 'https://www.filosofem.cat/IMG/pdf/piage_el_criterio_moral_en_el_nino.pdf',
-      desc: 'Pendiente'
+      desc: ''
     },
 
     enArticle: {
       title: '12 - Piaget’s Theory of Moral Development',
       url: 'https://www.cambridge.org/core/books/abs/cambridge-companion-to-piaget/piagets-theory-of-moral-development/AA66CDA3291DAE11430B77BA8EAFCE8A',
-      desc: 'Pendiente'
+      desc: ''
     },
 
     recommend: {
-      title: 'Open Yale Courses · PSYC 110, Lección 5',
+      title: 'Sociedad Jean Piaget para el Estudio del Conocimiento y el Desarrollo',
       url: 'https://piaget.org/',
       reason:
-        'Pendiente'
+        'Descubre los experimentos y conceptos clave sobre cómo los niños entienden las normas sociales y la cooperación. ¡Visita el recurso oficial y amplía tu perspectiva!'
     },
 
     fact:
       'Puedes creer que Piaget descubrió este proceso observando de manera muy detallada a niños jugando a las canicas en las calles de Ginebra y a las niñas jugando a la rayuela. A través de este inusual método, se dio cuenta de que la forma en que los niños entienden las reglas de un juego sencillo refleja cómo comprenden las normas y la justicia en la vida real.',
 
     activityUrl:
-      'https://es.educaplay.com/recursos-educativos/30668656-paradigma_habituacion_deshabituacion.html'
+      'https://es.educaplay.com/recursos-educativos/31405217-jean_piaget_desarrollo_cognitivo_y_moral.html'
   },
 
 
@@ -108,37 +108,37 @@ const THEORIES = {
     },
     short: 'Lawrence Kohlberg',
 
-    videoId: 'lXPM6gBF1Zc',
+    videoId: 'TKsx9bUi0AE',
 
     videoRef: {
-      url: 'https://www.youtube.com/watch?v=lXPM6gBF1Zc',
-      label: 'Psy vs. Psy (2021) · Violation of Expectations Experiments'
+      url: 'https://youtu.be/TKsx9bUi0AE',
+      label: 'Kohlberg y el caso Mateo'
     },
 
     esArticle: {
       title: 'EL DESARROLLO MORAL: UNA INTRODUCCION A LA TEORIA DE KOHLBERG',
       url: 'https://www.redalyc.org/pdf/805/80519101.pdf',
-      desc: 'Pendiente'
+      desc: ''
     },
 
     enArticle: {
       title: 'Exploring Childrens Morality: Theory, Data, and Practice in Early Childhood Education Yogyakarta',
       url: 'https://pdfs.semanticscholar.org/9e75/5dd1647f51593f9ec44a6a3a73f045c6fc74.pdf',
-      desc: 'Pendiente'
+      desc: ''
     },
 
     recommend: {
       title: 'The Ethics of Intervention, Immortality and Happiness',
       url: 'https://ethics.org.au/',
       reason:
-        'Pendiente'
+        'Analiza cómo evoluciona nuestra conciencia moral y por qué las reglas y la presión social moldean nuestras decisiones. ¡Haz clic para explorar The Ethics Centre!'
     },
 
     fact:
       'Kohlberg diseñó sus famosos "dilemas morales" hipotéticos (como el dilema de Heinz, donde un hombre debe decidir si roba un medicamento muy costoso para salvar a su esposa enferma) inspirándose directamente en los métodos que utilizaba Sócrates en la antigua Grecia.',
 
     activityUrl:
-      'https://wordwall.net/es/resource/119480466?wwmethod=link&wwshareintent=student'
+      'https://wordwall.net/es/resource/123208387?wwmethod=link'
   }
 };
 
